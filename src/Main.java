@@ -8,6 +8,7 @@ public class Main {
         double num2 = 9.8;
 
         System.out.println("The total is " + (num1 + num2));
+        System.out.println("The difference is " + (num1 - num2));
 
 
     }
